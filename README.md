@@ -6,5 +6,7 @@ It has the following elements:
 * GUIs
 * File IO
 * Importing libraries via System includes
+* Importing libraries locally
 * Complete Commenting
 * Code Repository use
+* Exception Handling
